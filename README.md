@@ -6,7 +6,7 @@ http://www.deepgreen.world
 
 Developer Team
 1) Bernhard Schicht, Munich, Germany, http://www.stash.de
-2) Falk-Alexander Birner
+2) Falk-Alexander Birner, Munich, Germany
 
 Used sources:
 https://firms2.modaps.eosdis.nasa.gov/download/ 
