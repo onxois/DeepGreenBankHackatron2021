@@ -1,5 +1,5 @@
 # DeepGreenBankHackatron2021
-Our hackatron 2021 implementation
+Our hackatron 2021 implementation in Java & Eclipse
 https://www.meetup.com/UKAzureUserGroup/events/274551171/
 
 http://www.deepgreen.world
@@ -8,7 +8,7 @@ Developer Team
 1) Bernhard Schicht, Munich, Germany, http://www.stash.de
 2) Falk-Alexander Birner, Munich, Germany
 
-Used sources:
+Used data sources:
 https://firms2.modaps.eosdis.nasa.gov/download/ 
 https://trase.earth/data (Brazil - Soy (All Years))
 https://www.macrotrends.net/2531/soybean-prices-historical-chart-data 
