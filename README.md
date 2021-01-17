@@ -2,7 +2,7 @@
 Our hackatron 2021 implementation in Java & Eclipse
 https://www.meetup.com/UKAzureUserGroup/events/274551171/
 
-We created an index called "DeepGreenIndex", which represents the deforestation in Brazil on a daily base
+We created an index called "DeepGreenIndex", which represents the deforestation in Brazil on a daily base.
 Our goal was to create a new underlying index for investment products.
 
 Developer Team
